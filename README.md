@@ -22,6 +22,8 @@ to stop:
 
 docker ps
 
-docker stop <id>
+docker stop [id of your conteiner]
+
+
 
 
